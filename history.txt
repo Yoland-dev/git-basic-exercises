@@ -1,0 +1,154 @@
+    1  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+    2  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+    3  git pull origin main
+    4  git pull origin main
+    5  git pull origin main
+    6  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+    7  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+    8  git branch
+    9  git checkout -b main
+   10  git checkout main
+   11  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   12  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   13  git clone https://boxfusion@dev.azure.com/boxfusion/pd-assetmanagement/_git/pd-assetmanagement
+   14  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   15  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   16  git clone https://boxfusion@dev.azure.com/boxfusion/pd-inventory/_git/pd-inventory
+   17  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   18  git clone https://boxfusion@dev.azure.com/boxfusion/pd-workordermanagement/_git/pd-workordermanagement
+   19  git clone https://boxfusion@dev.azure.com/boxfusion/pd-shiftmanagement/_git/pd-shiftmanagement
+   20  git clone https://boxfusion@dev.azure.com/boxfusion/pd-inventory/_git/pd-inventory
+   21  git clone https://boxfusion@dev.azure.com/boxfusion/pd-inventory/_git/pd-inventory
+   22  git clone https://boxfusion@dev.azure.com/boxfusion/pd-enterpriseproject/_git/pd-enterpriseproject
+   23  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   24  git clone https://boxfusion@dev.azure.com/boxfusion/pd-utilitymanagement/_git/pd-utilitymanagement
+   25  git push
+   26  git push
+   27  git push
+   28  clear
+   29  git push
+   30  git push
+   31  clear
+   32  git pull
+   33  git pull origin main
+   34  git pull origin main
+   35  git config
+   36  git status
+   37  git push
+   38  git push --set-upstream origin users/yoland/updated_to_public_nugets
+   39  git push --set-upstream origin users/yoland/updated_to_public_nugets
+   40  push.autoSetupRemote
+   41  git push --set-upstream origin users/yoland/updated_to_public_nugets
+   42  git push --set-upstream origin users/yoland/updated_to_public_nugets
+   43  git push --set-upstream origin users/yoland/updated_to_public_nugets
+   44  git branch
+   45  git checkout main
+   46  git pull
+   47  git checkout -b task/1
+   48  git commit -m task1
+   49  git add .
+   50  git commit -m task1
+   51  git branch
+   52  git push
+   53  git push --set-upstream origin task/1
+   54  git add .
+   55  git commit -m task2
+   56  git checkout main
+   57  git checkout -b task/2
+   58  git add .
+   59  git commit -m task2
+   60  git branch
+   61  git clone https://github.com/Umuzi-org/Yoland-Magxagxa-219-level-1-programming-katas-javascript.git
+   62  git add .
+   63  git commit -m fixed indentation
+   64  git commit -m formatted file
+   65  git commit -m task2
+   66  git push --set-upstream origin task/2
+   67  git push
+   68  git pull
+   69  git checkout -b task/1
+   70  git checkout task/1
+   71  git branch
+   72  git checkout task/2
+   73  git add .
+   74  git commit -m "updated throwing exception"
+   75  git push
+   76  git checkout task/1
+   77  git add .
+   78  git commit -m "updated throwing exception"
+   79  git push
+   80  git checkout task/3
+   81  git add .
+   82  git commit -m "updated throwing exception"
+   83  git push
+   84  git checkout task/5
+   85  git add .
+   86  git commit -m "updated throwing exception"
+   87  git push
+   88  git pull
+   89  git pull origin main
+   90  git pull origin main
+   91  git pull origin main
+   92  git pull origin main
+   93  git pull origin main
+   94  git checkout task/2
+   95  git add .
+   96  git commit -m "fixed error on hasThree function"
+   97  git push
+   98  mkdir git-basic-exercises
+   99  cd git-basic-exercises
+  100  ls -a
+  101  git init
+  102  ls -a
+  103  git status
+  104  touch README.md
+  105  ls -a
+  106  git status
+  107  git log
+  108  git add
+  109  git add .
+  110  git status
+  111  git rm --cached README.md
+  112  git status
+  113  git add README.md
+  114  git commit -m "Initial commit"
+  115  git log
+  116  q
+  117  nano README.md
+  118  y
+  119  cat README.md
+  120  git status
+  121  nano README.md
+  122  cat README.md
+  123  git status
+  124  git add .
+  125  git commit -m "second commit"
+  126  nano README.md
+  127  git status
+  128  git add .
+  129  git commit -m "third commit"
+  130  git log
+  131  q
+  132  git checkout f5915eb74b1dd69534a8adac2fafc27d239314b0
+  133  cat README.md
+  134  git checkout main
+  135  git checkout master
+  136  cat README.md
+  137  git branch -b "milkshake-flavours"
+  138  git branch milkshake-flavours
+  139  git branch
+  140  git checkout milkshake-flavours
+  141  git branch
+  142  nano milkshake.md
+  143  git status
+  144  nano milkshake.md
+  145  git add .
+  146  git commit -m "added initial flavours"
+  147  git log
+  148  git checkout master
+  149  git log
+  150  git branch history
+  151  git checkout history
+  152  git log
+  153  git branch
+  154  history > history.txt
